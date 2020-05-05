@@ -6,6 +6,7 @@
     export default {
         name: "vue"
     }
+    // 11
 </script>
 
 <style scoped>
